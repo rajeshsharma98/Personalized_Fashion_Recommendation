@@ -1,4 +1,6 @@
 # H\&M Personalized Fashion Recommendation  
+[Project Report](https://abrupt-sedum-671.notion.site/H-M-Personalised-Fashion-Recommendation-707229088b0a4504a2a533e1d1330eea)  
+
 ### Code Files:  
 - Articles (articles-data.ipynb)  
 - Customers (customer-data.ipynb)  
