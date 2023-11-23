@@ -1,5 +1,5 @@
 # H\&M Personalized Fashion Recommendation  
-[Project Report](https://abrupt-sedum-671.notion.site/H-M-Personalised-Fashion-Recommendation-707229088b0a4504a2a533e1d1330eea)  
+[Project Report](https://open.substack.com/pub/rajeshsharma98/p/h-and-m-personalized-fashion-recommendation?r=319f8m&utm_campaign=post&utm_medium=web)  
 
 ### Code Files:  
 - Articles (articles-data.ipynb)  
