@@ -5,7 +5,7 @@
 - Articles (articles-data.ipynb)  
 - Customers (customer-data.ipynb)  
 - Transaction (transcation-data-eda.ipynb)  
-- Aprori recommendation (recommendation.ipynb)  
+- Apriori recommendation (recommendation.ipynb)  
 - Clustering recommendation (clustering.ipynb)    
 All code file are Ipython files and can be opened in jupyter environment or kaggle/colab environments.  
 
